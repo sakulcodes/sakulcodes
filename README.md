@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sakulcodes
 - 👀 I’m interested in Machine Learning and Data Science
-- 🌱 I’m currently a PHD candidate in Statistics at Texas A&M University
+- 🌱 I’m currently a Graduate Student in Statistics at Texas A&M University
 - 📫 You can reach me at crmahat5554@gmail.com
 
 <!---
